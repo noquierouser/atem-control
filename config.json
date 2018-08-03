@@ -1,0 +1,9 @@
+{
+  "options": {
+    "max_listeners": 5,
+    "port": 8090
+  },
+  "switcher": {
+    "address": "192.168.0.200"
+  }
+}
